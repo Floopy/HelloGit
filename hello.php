@@ -6,4 +6,11 @@
         echo "Hey, you try me ?";
     }
 
+
+    function trash_me()
+    {
+        echo "Oh No !";
+    }
+
+
 ?>
